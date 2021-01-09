@@ -3,7 +3,7 @@
 
 namespace Fmmm\LaravelUtil\Fm;
 
-class Util
+class FmUtil
 {
     /**
      * get请求
