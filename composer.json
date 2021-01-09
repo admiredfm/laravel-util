@@ -1,0 +1,23 @@
+{
+    "name": "fmmm/laravel-util",
+    "description": "fmTest",
+    "type": "library",
+    "authors": [
+        {
+            "name": "fm",
+            "email": "fm9010@sina.cn"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=7.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Fmmm\\LaravelUtil\\": "src/"
+        },
+        "files": [
+            "src/helpers.php"
+        ]
+    }
+}
