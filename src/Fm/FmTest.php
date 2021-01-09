@@ -1,6 +1,9 @@
 <?php
 
 
+namespace Fmmm\LaravelUtil\Fm;
+
+
 class FmTest
 {
     function ttest(){
